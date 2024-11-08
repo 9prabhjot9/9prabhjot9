@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ps459811@gmail.com**
 
-- ⚡ Fun fact **I know guitar and a Gymrat**
+- ⚡ Fun fact **I play guitar and a Gymrat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
