@@ -1,23 +1,59 @@
-<h1 align="center">Hi 👋, I'm Prabhjot singh</h1>
-<h3 align="center">First year CSE rookie, learning to code</h3>
+<h1 align="center">👋 ,I'm Prabhjot</h1>
+<h3> Computer Science and Engineering student passionate about WebDev, web3, and building real-world projects</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=9prabhjot9&label=Profile%20views&color=0e75b6&style=flat" alt="9prabhjot9" /> </p>
 
-<p align="left"> <a href="https://twitter.com/9prabhjotsingh9" target="blank"><img src="https://img.shields.io/twitter/follow/9prabhjotsingh9?logo=twitter&style=for-the-badge" alt="9prabhjotsingh9" /></a> </p>
+---
 
-- 📫 How to reach me **ps459811@gmail.com**
+<p align="center">
+  Full Stack • Web 3 <br/>
 
-- ⚡ Fun fact **I play guitar and a Gymrat**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/9prabhjotsingh9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="9prabhjotsingh9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prabhjot singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhjot singh" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=9prabhjot9&show_icons=true&locale=en&layout=compact" alt="9prabhjot9" /></p>
+<h3 align="center">⚙️ Tech Stack</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=9prabhjot9&" alt="9prabhjot9" /></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+---
+
+
+
+---
+
+<p align="center">
+  <a href="https://twitter.com/9prabhjotsingh9" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="mailto:ps459811@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p> ---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=9prabhjot9&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9prabhjot9&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://twitter.com/9prabhjotsingh9" target="_blank">
+    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter">
+  </a>
+  <a href="mailto:ps459811@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p> 
