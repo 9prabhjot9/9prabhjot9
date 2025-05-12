@@ -1,4 +1,4 @@
-<h1 align="center">👋 ,I'm Prabhjot</h1>
+<h1 align="center">👋 ,I'm Prabhjot Singh</h1>
 <h3> Computer Science and Engineering student passionate about WebDev, web3, and building real-world projects</h3>
 
 
@@ -49,11 +49,4 @@
 
 ---
 
-<p align="center">
-  <a href="https://twitter.com/9prabhjotsingh9" target="_blank">
-    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter">
-  </a>
-  <a href="mailto:ps459811@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p> 
+
