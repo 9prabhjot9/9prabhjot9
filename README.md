@@ -1,4 +1,4 @@
-<h1 align="center">👋 ,I'm Prabhjot Singh</h1>
+<h1 align="center">Hi 👋,I'm Prabhjot Singh</h1>
 <h3> Computer Science and Engineering student passionate about WebDev, web3, and building real-world projects</h3>
 
 
